@@ -1,0 +1,409 @@
+Tuyệt vời, đây là bản dịch sang tiếng Việt, chú trọng ngữ nghĩa và ngữ pháp, dễ hiểu và giữ lại timestamp:
+
+1
+00:00:00,201 --> 00:00:05,600
+Tôi sẽ chia sẻ hơn 10 năm kinh nghiệm thiết kế web chỉ trong 7 phút ngắn ngủi.
+
+2
+00:00:05,901 --> 00:00:08,100
+Không lan man, chỉ những kiến thức cốt lõi nhất thôi.
+
+3
+00:00:08,401 --> 00:00:09,000
+Sẵn sàng chưa nào?
+
+4
+00:00:09,301 --> 00:00:09,800
+Bắt đầu thôi!
+
+5
+00:00:12,001 --> 00:00:18,300
+Về cơ bản, tất cả kiến thức thiết kế bạn cần để xây dựng một trang web tuyệt vời có thể gói gọn trong ba yếu tố chính.
+
+6
+00:00:18,601 --> 00:00:21,400
+Đó là bố cục (layout), màu sắc và kiểu chữ (typography).
+
+7
+00:00:21,501 --> 00:00:27,900
+Có lẽ bạn đã từng nghe nói rằng người dùng đọc hoặc tương tác với trang web theo hình chữ F.
+
+8
+00:00:27,901 --> 00:00:36,600
+Họ bắt đầu đọc từ góc trên bên trái, sau đó sang phải, quay lại, xuống dưới bên trái, sang phải, quay lại và tiếp tục xuống dưới bên trái cho đến khi xong.
+
+9
+00:00:36,701 --> 00:00:38,200
+Nhưng sự thật là...
+
+10
+00:00:38,601 --> 00:00:40,500
+...thông tin đó thực sự sai lầm.
+
+11
+00:00:40,501 --> 00:00:46,600
+Đó là thông tin lỗi thời mà các nhà thiết kế web cứ lặp đi lặp lại, khiến mọi người đều nghĩ nó là đúng.
+
+12
+00:00:46,601 --> 00:00:51,200
+Tôi có lẽ cũng từng là một trong số những nhà thiết kế web đó, và tôi xin lỗi vì điều đó.
+
+13
+00:00:51,201 --> 00:01:03,600
+Sự thật là, mọi người tương tác với trang web theo vô vàn cách khác nhau, và ép họ phải chú ý theo hình chữ F có thể khiến họ bỏ lỡ những thông tin quan trọng.
+
+14
+00:01:03,701 --> 00:01:05,400
+Vậy bạn nên làm gì thay vào đó?
+
+15
+00:01:05,701 --> 00:01:08,500
+Bạn nên sử dụng thứ gọi là "hệ thống phân cấp thị giác" (visual hierarchy).
+
+16
+00:01:08,601 --> 00:01:18,200
+Có lẽ bạn đã từng thấy một hình ảnh có dòng chữ in đậm lớn nói rằng "bạn sẽ đọc dòng này trước", và dòng chữ nhỏ hơn bên dưới nói rằng "sau đó bạn sẽ đọc dòng này".
+
+17
+00:01:18,501 --> 00:01:26,000
+Và rồi một dòng chữ cực nhỏ ở góc dưới bên trái nói rằng "và bạn sẽ đọc dòng này cuối cùng", đó chính là hệ thống phân cấp thị giác.
+
+18
+00:01:26,101 --> 00:01:30,400
+Bạn làm cho những yếu tố quan trọng nhất của một phần trở nên lớn nhất và đậm nhất.
+
+19
+00:01:30,401 --> 00:01:36,200
+Và sau đó, với mỗi yếu tố khác không quan trọng bằng, bạn giảm "âm lượng" của nó xuống.
+
+20
+00:01:36,201 --> 00:01:40,700
+Bạn làm cho nó ít nổi bật hơn, đặc biệt là các nút "kêu gọi hành động" (call to action).
+
+21
+00:01:40,701 --> 00:01:45,400
+Bạn cần đảm bảo rằng chúng có độ tương phản cao so với mọi thứ xung quanh.
+
+22
+00:01:45,401 --> 00:01:45,800
+Tại sao?
+
+23
+00:01:46,101 --> 00:01:50,300
+Bởi vì điều chính chúng ta muốn mọi người làm trên trang web là nhấp vào một nút.
+
+24
+00:01:50,401 --> 00:01:53,500
+Nếu nó không nổi bật, sẽ rất khó để người dùng làm điều đó.
+
+25
+00:01:53,501 --> 00:01:57,400
+Và làm ơn, tôi van các bạn, hãy ngừng sử dụng nút "ghost" (nút ma).
+
+26
+00:01:57,401 --> 00:01:58,500
+Nút "ghost" là gì?
+
+27
+00:01:58,601 --> 00:02:02,400
+Đó là những nút chỉ có đường viền mà không có nền màu.
+
+28
+00:02:02,501 --> 00:02:06,600
+Vấn đề là mọi người không nhìn thấy chúng và không nhấp vào chúng.
+
+29
+00:02:06,601 --> 00:02:12,700
+Về màu sắc, mỗi trang web nên có một bảng màu phù hợp với thương hiệu của chủ sở hữu trang web.
+
+30
+00:02:12,701 --> 00:02:15,900
+Đây là một vài điều quan trọng cần xem xét khi nói đến màu sắc.
+
+31
+00:02:16,201 --> 00:02:18,500
+Điều đầu tiên là khả năng tiếp cận (accessibility).
+
+32
+00:02:18,601 --> 00:02:27,600
+Nếu bạn chọn màu sắc khiến việc đọc văn bản trở nên khó khăn hoặc khó nhìn rõ các yếu tố, người dùng sẽ khó tương tác.
+
+33
+00:02:27,601 --> 00:02:35,900
+Bạn cần chọn màu sắc có độ tương phản đủ cao để ngay cả những người dùng có thị lực kém vẫn có thể nhìn thấy mọi thứ rõ ràng.
+
+34
+00:02:35,901 --> 00:02:38,600
+Làm thế nào để biết độ tương phản có đủ cao hay không?
+
+35
+00:02:38,601 --> 00:02:42,600
+Tôi thích sử dụng một trang web có tên coolers.co.
+
+36
+00:02:42,901 --> 00:02:48,200
+Bạn có thể đưa tất cả các màu thương hiệu từ một trang web vào bảng điều khiển.
+
+37
+00:02:48,601 --> 00:02:56,000
+Nhấp vào công cụ kiểm tra độ tương phản màu sắc và nó sẽ ngay lập tức cho bạn biết màu nào đạt và màu nào không, một công cụ cực kỳ hữu ích.
+
+38
+00:02:56,101 --> 00:03:02,500
+Một nguyên tắc tốt khác cho màu sắc là bạn nên sử dụng hướng dẫn gọi là quy tắc 60-30-10.
+
+39
+00:03:02,501 --> 00:03:10,200
+Về cơ bản, điều này có nghĩa là khoảng 60% trang web của bạn nên sử dụng màu chủ đạo, chẳng hạn như màu xám, đen và trắng.
+
+40
+00:03:10,501 --> 00:03:18,200
+30% nên dành cho màu thương hiệu của bạn, và 10% còn lại bạn nên sử dụng cho điểm nhấn.
+
+41
+00:03:18,201 --> 00:03:20,500
+Để giúp mọi thứ thực sự nổi bật.
+
+42
+00:03:20,501 --> 00:03:25,300
+Đó là một điều tuyệt vời để sử dụng cho các nút "kêu gọi hành động" của bạn.
+
+43
+00:03:25,301 --> 00:03:29,300
+Đây có phải là một quy tắc cứng nhắc mà bạn tuyệt đối phải sử dụng mọi lúc không?
+
+44
+00:03:29,501 --> 00:03:33,500
+Không, nhưng đó là một nguyên tắc tốt để tuân thủ, đặc biệt là khi bạn mới bắt đầu.
+
+45
+00:03:33,501 --> 00:03:34,600
+Sau đó là kiểu chữ.
+
+46
+00:03:34,801 --> 00:03:43,900
+Kiểu chữ là một trong những yếu tố thiết kế bị đánh giá thấp nhất của một trang web, nhưng nó có tác động lớn đến khả năng đọc và trải nghiệm người dùng.
+
+47
+00:03:43,901 --> 00:03:47,200
+Rất may, có rất nhiều lựa chọn tuyệt vời khi nói đến phông chữ.
+
+48
+00:03:47,201 --> 00:03:56,800
+Bạn có phông chữ serif, phông chữ sans serif, phông chữ viết tay, phông chữ script, phông chữ display, phông chữ monospace, và còn nhiều nữa.
+
+49
+00:03:56,801 --> 00:04:00,000
+Có ba yếu tố văn bản chính cần xem xét cho trang web của bạn.
+
+50
+00:04:00,001 --> 00:04:07,000
+Bạn có thẻ H1, hoặc tiêu đề chính, và đây phải là văn bản lớn nhất, nổi bật nhất trên trang.
+
+51
+00:04:07,001 --> 00:04:10,300
+Nó sẽ mô tả toàn bộ trang nói về điều gì.
+
+52
+00:04:10,301 --> 00:04:12,800
+Sau đó, bạn có thẻ H2, hoặc tiêu đề phụ.
+
+53
+00:04:12,801 --> 00:04:19,399
+Chúng đóng vai trò là cách để phân chia phần còn lại của trang và hướng dẫn sự chú ý của người dùng.
+
+54
+00:04:19,400 --> 00:04:23,000
+Và cuối cùng, bạn có văn bản đoạn văn, hoặc thẻ P.
+
+55
+00:04:23,001 --> 00:04:25,900
+Bạn không nên sử dụng văn bản trang trí công phu cho điều này.
+
+56
+00:04:25,901 --> 00:04:28,800
+Nó có thể trông đẹp, nhưng nó giết chết khả năng đọc.
+
+57
+00:04:28,901 --> 00:04:29,700
+Nhưng đây là điều quan trọng.
+
+58
+00:04:29,801 --> 00:04:35,000
+Thiết kế tốt mà không có các phương pháp chuyển đổi tốt thực sự không giúp ích gì cho khách hàng của bạn.
+
+59
+00:04:35,001 --> 00:04:41,000
+Tôi đã thiết kế một trang web cách đây một thời gian cho một khách hàng và kết quả tốt hơn nhiều so với trang web cũ của họ.
+
+60
+00:04:41,001 --> 00:04:44,300
+Nó sạch sẽ, nó hiện đại, nó "chef's kiss" (tuyệt vời).
+
+61
+00:04:44,301 --> 00:04:47,500
+Vấn đề là, khi chúng tôi ra mắt nó, doanh số bán hàng giảm mạnh.
+
+62
+00:04:47,801 --> 00:04:48,800
+Tại sao điều đó xảy ra?
+
+63
+00:04:48,901 --> 00:04:54,300
+Đó là bởi vì tôi đã cố gắng làm cho nó trông đẹp thay vì tập trung vào các phương pháp chuyển đổi tốt.
+
+64
+00:04:54,401 --> 00:04:59,000
+Nếu thiết kế của bạn không xem xét đến chuyển đổi, nó vô dụng đối với khách hàng của bạn.
+
+65
+00:04:59,001 --> 00:05:01,300
+Vậy các phương pháp chuyển đổi tốt là gì?
+
+66
+00:05:01,301 --> 00:05:05,000
+Chuyển đổi tốt là tất cả về việc giảm bớt trở ngại cho người dùng.
+
+67
+00:05:05,001 --> 00:05:14,100
+Bạn cần làm cho người dùng dễ dàng tìm thấy những gì họ đang tìm kiếm và trải qua quá trình mua sản phẩm hoặc đăng ký dịch vụ.
+
+68
+00:05:14,101 --> 00:05:15,900
+Và điều đó được thực hiện thông qua sự rõ ràng.
+
+69
+00:05:15,901 --> 00:05:23,200
+Bạn cần phải hoàn toàn rõ ràng về công ty hoặc người sở hữu trang web là ai và người dùng nên làm gì tiếp theo.
+
+70
+00:05:23,201 --> 00:05:26,700
+Tại sao họ nên làm điều đó. Bạn cũng làm điều đó thông qua khả năng quét (scanability).
+
+71
+00:05:26,801 --> 00:05:30,100
+Mọi người không đọc trang web, họ đang quét qua nó.
+
+72
+00:05:30,301 --> 00:05:35,000
+Vì vậy, bạn cần sắp xếp mọi thứ theo cách mà mọi người có thể lướt qua và đưa ra quyết định.
+
+73
+00:05:35,201 --> 00:05:38,200
+Và cuối cùng, bạn muốn trang web có tính thúc đẩy (motivating).
+
+74
+00:05:38,301 --> 00:05:40,000
+Không chỉ đủ đẹp thôi đâu.
+
+75
+00:05:40,201 --> 00:05:43,100
+Bạn thực sự cần phải nói chuyện với trái tim của người dùng.
+
+76
+00:05:43,101 --> 00:05:46,800
+Nói về điều đang thúc đẩy họ nói có hoặc không.
+
+77
+00:05:46,801 --> 00:05:52,800
+Nhưng nhìn chung, bạn cần thiết kế cho đúng đối tượng, không phải cho bản thân và không phải cho khách hàng của bạn.
+
+78
+00:05:52,801 --> 00:05:54,700
+Không quan trọng nếu bạn yêu thích thiết kế đó.
+
+79
+00:05:54,801 --> 00:05:57,600
+Thậm chí không quan trọng nếu khách hàng của bạn yêu thích thiết kế đó.
+
+80
+00:05:58,201 --> 00:05:59,400
+Nó quan trọng với ai?
+
+81
+00:05:59,701 --> 00:06:00,900
+Với khách truy cập trang web.
+
+82
+00:06:00,901 --> 00:06:02,300
+Vì vậy, hãy nghiên cứu một chút.
+
+83
+00:06:02,301 --> 00:06:04,600
+Ai thực sự đang sử dụng trang web này?
+
+84
+00:06:04,601 --> 00:06:06,400
+Phông chữ, màu sắc, bố cục.
+
+85
+00:06:06,701 --> 00:06:10,300
+Hãy chọn chúng dựa trên đối tượng mục tiêu, không phải sở thích cá nhân.
+
+86
+00:06:10,301 --> 00:06:12,600
+Cuối cùng, hãy đảm bảo rằng bạn không bao giờ ngừng học hỏi.
+
+87
+00:06:12,701 --> 00:06:15,200
+Các nhà thiết kế web không "già" đi như rượu vang hảo hạng, OK?
+
+88
+00:06:15,201 --> 00:06:18,600
+Chúng ta "già" đi như một ổ bánh mì bị bỏ quên trên bàn.
+
+89
+00:06:18,801 --> 00:06:21,400
+Chúng ta trở nên cũ kỹ nếu chúng ta không tiếp tục học hỏi.
+
+90
+00:06:21,401 --> 00:06:25,100
+Ngành thiết kế web đang thay đổi nhanh chóng, và nó sẽ tiếp tục như vậy.
+
+91
+00:06:25,101 --> 00:06:28,300
+Những gì hiệu quả cách đây 5 năm có thể không hiệu quả ngày hôm nay.
+
+92
+00:06:28,301 --> 00:06:31,000
+Nó có thể không hiệu quả trong 5 năm tới.
+
+93
+00:06:31,001 --> 00:06:35,100
+Và nếu bạn không thử thách bản thân và cập nhật thông tin, bạn sẽ bị tụt lại phía sau.
+
+94
+00:06:35,401 --> 00:06:37,800
+Liệu AI có lấy đi tất cả công việc của chúng ta không?
+
+95
+00:06:38,701 --> 00:06:39,900
+Có lẽ là không.
+
+96
+00:06:40,201 --> 00:06:43,400
+Nhưng liệu AI có lấy đi công việc của những nhà thiết kế web lười biếng không?
+
+97
+00:06:44,001 --> 00:06:44,600
+Chắc chắn rồi.
+
+98
+00:06:44,701 --> 00:06:49,900
+Cách duy nhất để duy trì giá trị là tiếp tục học hỏi, tiếp tục điều chỉnh và tiếp tục nâng cấp bản thân.
+
+99
+00:06:50,001 --> 00:06:55,800
+Và bạn có thể tự hỏi, tất cả đều tốt, nhưng tôi cần làm gì nếu tôi mới bắt đầu ngày hôm nay?
+
+100
+00:06:55,901 --> 00:07:01,200
+Rất may, tôi có một video khác mà tôi sẽ liên kết đến, video đó sẽ trả lời chính xác những câu hỏi đó.
+
+101
+00:07:01,501 --> 00:07:06,800
+Hãy nhớ thích video này nếu nó hữu ích và nhớ đăng ký để bạn không bỏ lỡ bất kỳ tập nào khác.
+
+102
+00:07:06,801 --> 00:07:09,700
+Và đừng quên, nếu bạn không bỏ cuộc, bạn sẽ chiến thắng.

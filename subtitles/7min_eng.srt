@@ -1,0 +1,407 @@
+1
+00:00:00,201 --> 00:00:05,600
+I'm going to give you over 10 years of web design knowledge in just 7 minutes.
+
+2
+00:00:05,901 --> 00:00:08,100
+No fluff, just the good stuff.
+
+3
+00:00:08,401 --> 00:00:09,000
+Are you ready?
+
+4
+00:00:09,301 --> 00:00:09,800
+Let's go.
+
+5
+00:00:12,001 --> 00:00:18,300
+You can basically boil all the design knowledge that you need to build great websites down to just three things.
+
+6
+00:00:18,601 --> 00:00:21,400
+Layout, color, and typography.
+
+7
+00:00:21,501 --> 00:00:27,900
+Probably heard it said before that people read or engage websites in somewhat of an F pattern.
+
+8
+00:00:27,901 --> 00:00:36,600
+So they start reading at the top left and then they go right, they come back, they go down on the left, they go right, they come back and they go down on the left until they're done.
+
+9
+00:00:36,701 --> 00:00:38,200
+But here's the truth.
+
+10
+00:00:38,601 --> 00:00:40,500
+That's actually bogus.
+
+11
+00:00:40,501 --> 00:00:46,600
+It's outdated information that web designers just kind of keep repeating, and so everybody thinks it's true.
+
+12
+00:00:46,601 --> 00:00:51,200
+I might have been one of those web designers, and for that I apologize.
+
+13
+00:00:51,201 --> 00:01:03,600
+The truth is, is that people engage with websites and all sorts of different patterns, and forcing them to pay attention in an F pattern might actually cause them to miss important information.
+
+14
+00:01:03,701 --> 00:01:05,400
+So what do you do instead?
+
+15
+00:01:05,701 --> 00:01:08,500
+You use something called visual hierarchy.
+
+16
+00:01:08,601 --> 00:01:18,200
+Probably seen an image before where there's this big bold line of text that says you're going to read this first, and the smaller line underneath it that says then you'll read it next.
+
+17
+00:01:18,501 --> 00:01:26,000
+And then this really tiny line that's all the way in the left hand corner that says, and you'll read this last, that is visual hierarchy.
+
+18
+00:01:26,101 --> 00:01:30,400
+You make the most important elements of a section, the biggest and the boldest.
+
+19
+00:01:30,401 --> 00:01:36,200
+And then for each other element that isn't maybe as important, you turn down the volume.
+
+20
+00:01:36,201 --> 00:01:40,700
+You make it more inconspicuous for your call to action or buttons.
+
+21
+00:01:40,701 --> 00:01:45,400
+You want to make sure that they have a high degree of contrast from everything else around them.
+
+22
+00:01:45,401 --> 00:01:45,800
+Why?
+
+23
+00:01:46,101 --> 00:01:50,300
+Because the main thing we want people to do on a website is click a button.
+
+24
+00:01:50,401 --> 00:01:53,500
+If it doesn't stand out, it's going to make it harder to do that.
+
+25
+00:01:53,501 --> 00:01:57,400
+And please, I beg of you, stop using ghost buttons.
+
+26
+00:01:57,401 --> 00:01:58,500
+What are ghost buttons?
+
+27
+00:01:58,601 --> 00:02:02,400
+They're buttons that just have an outline without a solid background.
+
+28
+00:02:02,501 --> 00:02:06,600
+The problem is that people don't see them and they don't click on them.
+
+29
+00:02:06,601 --> 00:02:12,700
+For colors, every website should have a color palette that matches the brand of the website owner.
+
+30
+00:02:12,701 --> 00:02:15,900
+Here's a few important things to consider when it comes to color.
+
+31
+00:02:16,201 --> 00:02:18,500
+The first thing is accessibility.
+
+32
+00:02:18,601 --> 00:02:27,600
+If you pick colors that make it difficult to read text or tough to see elements clearly, it's going to be hard for users to engage.
+
+33
+00:02:27,601 --> 00:02:35,900
+You want to pick colors that have a high enough contrast that even users with visual impairments are still going to be able to see things clearly.
+
+34
+00:02:35,901 --> 00:02:38,600
+How do you know if a contrast is high enough?
+
+35
+00:02:38,601 --> 00:02:42,600
+Something that I like using is a website calledcoolers.co.
+
+36
+00:02:42,901 --> 00:02:48,200
+You could actually take all of the brand colors from a website and put it into the dashboard.
+
+37
+00:02:48,601 --> 00:02:56,000
+Click on the color contrast teller and it will instantly tell you which colors pass and which super helpful tool.
+
+38
+00:02:56,101 --> 00:03:02,500
+Another good rule of thumb for colors is that you want to use a guideline called the 6030 ten rule.
+
+39
+00:03:02,501 --> 00:03:10,200
+Basically what this means is that about 60% of your website should use your dominant colors, things like Grays or blacks and whites.
+
+40
+00:03:10,501 --> 00:03:18,200
+30% you should reserve for your brand colors, and then another 10% you want to use something for an accent.
+
+41
+00:03:18,201 --> 00:03:20,500
+So helping things really stand out.
+
+42
+00:03:20,501 --> 00:03:25,300
+That's a great thing to use for, like your calls to actions or your buttons.
+
+43
+00:03:25,301 --> 00:03:29,300
+Is this a hard and fast rule that you absolutely have to use every single time?
+
+44
+00:03:29,501 --> 00:03:33,500
+No, but it's a good principle to stick with, especially when you're first getting started.
+
+45
+00:03:33,501 --> 00:03:34,600
+Then there's typography.
+
+46
+00:03:34,801 --> 00:03:43,900
+Typography is one of the most underrated design elements of a website, but it has a massive impact on the readability and user experience.
+
+47
+00:03:43,901 --> 00:03:47,200
+Thankfully, there's a ton of great options when it comes to fonts.
+
+48
+00:03:47,201 --> 00:03:56,800
+You've got serifs, you've got sans serifs, you've got handwritten fonts, You've got scripts, you've got display, you've got monospace, and it goes on and on.
+
+49
+00:03:56,801 --> 00:04:00,000
+There are three main text elements to consider for your website.
+
+50
+00:04:00,001 --> 00:04:07,000
+You've got your H ones or your main headers, and this should be the biggest, most prominent text on the page.
+
+51
+00:04:07,001 --> 00:04:10,300
+This is going to describe what the entire page is all about.
+
+52
+00:04:10,301 --> 00:04:12,800
+Then you've got your H2 or your subheadings.
+
+53
+00:04:12,801 --> 00:04:19,399
+These act as ways to divvy up the rest of the page and guide a user's attention.
+
+54
+00:04:19,400 --> 00:04:23,000
+Then finally you've got your paragraph text or your P tags.
+
+55
+00:04:23,001 --> 00:04:25,900
+You don't want to use really decorative text for this.
+
+56
+00:04:25,901 --> 00:04:28,800
+It might look cool, but it kills readability.
+
+57
+00:04:28,901 --> 00:04:29,700
+But here's the thing.
+
+58
+00:04:29,801 --> 00:04:35,000
+Good design without good conversion practices doesn't actually help your clients.
+
+59
+00:04:35,001 --> 00:04:41,000
+I designed a website a while back for a client and the result was way better than their old website.
+
+60
+00:04:41,001 --> 00:04:44,300
+It was clean, it was modern, it was chef's kiss.
+
+61
+00:04:44,301 --> 00:04:47,500
+The problem was, when we launched it, sales plummeted.
+
+62
+00:04:47,801 --> 00:04:48,800
+Why did that happen?
+
+63
+00:04:48,901 --> 00:04:54,300
+It's because I tried to make it look pretty instead of focusing on good conversion practice.
+
+64
+00:04:54,401 --> 00:04:59,000
+If your design doesn't consider conversion, it's useless to your clients.
+
+65
+00:04:59,001 --> 00:05:01,300
+So what are good conversion practices?
+
+66
+00:05:01,301 --> 00:05:05,000
+Good conversion is all about reducing friction for users.
+
+67
+00:05:05,001 --> 00:05:14,100
+You want to make it stupid easy for the users to find what they're looking for and to go through and either buy a product or sign up for a service.
+
+68
+00:05:14,101 --> 00:05:15,900
+And that's done through clarity.
+
+69
+00:05:15,901 --> 00:05:23,200
+You want to be crystal clear about who the company is or the person is, who owns the website, and what the user is supposed to do next.
+
+70
+00:05:23,201 --> 00:05:26,700
+Why they should even You also do it through scan ability.
+
+71
+00:05:26,801 --> 00:05:30,100
+People aren't reading websites, they're scanning through it.
+
+72
+00:05:30,301 --> 00:05:35,000
+So you need to set things out in such a way that people can bounce around and make decisions.
+
+73
+00:05:35,201 --> 00:05:38,200
+And then finally, you want the website to be motivating.
+
+74
+00:05:38,301 --> 00:05:40,000
+It's not just enough to be pretty.
+
+75
+00:05:40,201 --> 00:05:43,100
+You actually need to speak to the heart of the user.
+
+76
+00:05:43,101 --> 00:05:46,800
+Speak to the thing that's driving them to say yes or no.
+
+77
+00:05:46,801 --> 00:05:52,800
+But overall, you want to design for the right audience, not for yourself and not for your client.
+
+78
+00:05:52,801 --> 00:05:54,700
+It doesn't matter if you love the design.
+
+79
+00:05:54,801 --> 00:05:57,600
+It doesn't even matter if your client loves the design.
+
+80
+00:05:58,201 --> 00:05:59,400
+Who does it matter for?
+
+81
+00:05:59,701 --> 00:06:00,900
+The website visitors.
+
+82
+00:06:00,901 --> 00:06:02,300
+So do a little research.
+
+83
+00:06:02,301 --> 00:06:04,600
+Who's actually using this website.
+
+84
+00:06:04,601 --> 00:06:06,400
+Fonts, colors, layout.
+
+85
+00:06:06,701 --> 00:06:10,300
+Choose them based on the target audience and not personal preference.
+
+86
+00:06:10,301 --> 00:06:12,600
+Finally, make sure that you never stop learning.
+
+87
+00:06:12,701 --> 00:06:15,200
+Web designers don't age like fine wine, OK?
+
+88
+00:06:15,201 --> 00:06:18,600
+We age like a loaf of bread left on the counter.
+
+89
+00:06:18,801 --> 00:06:21,400
+We go stale unless we keep learning.
+
+90
+00:06:21,401 --> 00:06:25,100
+The web design industry is changing fast, and it's going to continue to do so.
+
+91
+00:06:25,101 --> 00:06:28,300
+What worked just five years ago might not work today.
+
+92
+00:06:28,301 --> 00:06:31,000
+It might not work in the next five years.
+
+93
+00:06:31,001 --> 00:06:35,100
+And if you don't challenge yourself and stay updated, you're going to fall behind.
+
+94
+00:06:35,401 --> 00:06:37,800
+Will AI take all of our jobs?
+
+95
+00:06:38,701 --> 00:06:39,900
+Probably not.
+
+96
+00:06:40,201 --> 00:06:43,400
+But will AI take lazy web designer jobs?
+
+97
+00:06:44,001 --> 00:06:44,600
+Absolutely.
+
+98
+00:06:44,701 --> 00:06:49,900
+The only way to stay valuable is to keep learning, keep adjusting, and keep leveling up.
+
+99
+00:06:50,001 --> 00:06:55,800
+And you might be asking yourself, that's all well and good, but what do I need to do if I'm getting started today?
+
+100
+00:06:55,901 --> 00:07:01,200
+Thankfully, I've got another video that I'm going to link to that's going to answer just those questions.
+
+101
+00:07:01,501 --> 00:07:06,800
+Make sure that you like this video if it was helpful, and be sure to subscribe so that you don't miss another episode.
+
+102
+00:07:06,801 --> 00:07:09,700
+And don't forget, if you don't quit, you win.

@@ -1,5 +1,5 @@
 
-# 🎙️ YouDub - AI Voiceover & Translation for YouTube Videos
+# 🎙️ Youtube Cabin - AI Voiceover & Translation for YouTube Videos
 
 > **Fullstack Next.js 14 App Router project** that creates AI-powered voiceovers and translations for YouTube videos. Powered by Microsoft Azure Edge TTS, Google Cloud TTS, and more.
 

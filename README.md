@@ -10,7 +10,7 @@
 - 🗣️ **Text-to-Speech (TTS)** using:
   - Microsoft Azure Edge TTS.
   - Google Cloud TTS.
-- 🎧 **Precise audio syncing** with ReactPlayer integration.
+- 🎧 **Precise audio syncing** with Vidstack Player integration.
 - ⚡ **Serverless-ready architecture** – no backend server required.
 
 ## 📦 Tech Stack
